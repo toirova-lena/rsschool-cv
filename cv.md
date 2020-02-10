@@ -4,9 +4,9 @@ My name is Toirova Elena.
 
 # Contacts #
 
-Telegram: @toirova_lena;
-Telephone Number: +79086489550;
-Email: toirova.elena@yandex.ru.
+* Telegram: @toirova_lena;
+* Telephone Number: +79086489550;
+* Email: toirova.elena@yandex.ru.
 
 # Self-presentation #
 
@@ -16,7 +16,14 @@ Making sites was my dream since school years. The magic of web-technology is won
 
 # Skills #
 
-I have a basic knowledge of Pascal, HTML, CSS and C#. I understand a simple syntax. And I can to solve easy tasks on it.
+I have a basic knowledge of:
+
+* Pascal;
+* HTML;
+* CSS;
+* C#.
+
+I understand a simple syntax. And I can to solve easy tasks on it.
 
 # Experience #
 
